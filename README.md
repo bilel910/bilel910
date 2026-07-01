@@ -19,7 +19,7 @@
 <br/>
 
 <!-- ===== SOCIAL BADGES ===== -->
-<a href="https://www.linkedin.com/in/bilelkort-087b4b1b7/">
+<a href="https://www.linkedin.com/in/bilel-kort-087b4b1b7/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:kortbilel1@gmail.com">
@@ -40,7 +40,6 @@ class BilelKort:
         self.role        = "AI Engineer"
         self.education   = ["Ingénieur ESPRIT 🇹🇳", "Efrei Paris — Big Data & ML 🇫🇷"]
         self.focus       = ["GenAI", "RAG", "Computer Vision", "MLOps"]
-        self.looking_for = "Alternance 📅 (1 week school / 1 week company)"
         self.languages   = ["Arabic 🇸🇦", "French 🇫🇷", "English 🇬🇧", "German 🇩🇪"]
         self.fun_fact    = "I make repetitive tasks disappear with AI ✨"
 
